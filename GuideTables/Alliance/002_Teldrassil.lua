@@ -41,7 +41,7 @@ Table_002_Teldrassil = {
 			[13] = { str = "13. Идите к своему тренеру и выучите навыки и сдайте задание тренеру #TURNINEtched Sigil# (у вас задание может называться по другому в зависимости от класса это хантовский квест)." },
 			[14] = { str = "14. Соберите 4 цветка в точке 57,37 (около озер) для задания #DOQUESTIverron's Antidote pt.1#." },
 			[15] = { str = "15. Идите на север и бейте пауков для задания #DOQUESTWebwood Venom#  в точке 57,32." },
-			[16] = { str = "16. Идите на ЮГ и выполняйте задание #TURNINThe Woodland Protector pt.1# и доделайте задание #DOQUESTIverron's Antidote pt.1# убивая Grellkin." },
+			[16] = { str = "16. Идите на ЮГ в точку 54, 43 и выполняйте задание #TURNINThe Woodland Protector pt.1# и доделайте задание #DOQUESTIverron's Antidote pt.1# убивая Grellkin." },
 			[17] = { str = "17.
 			[18] = { str = "18.
 			[19] = { str = "19. 
