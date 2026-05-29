@@ -55,9 +55,16 @@ Table_002_Teldrassil = {
 			[27] = { str = "27.
 			[28] = { str = "28.
 			[29] = { str = "29.
+			[30] = { str = "30.
+			[31] = { str = "31.
+			[32] = { str = "32.
+			[33] = { str = "33.
+			[34] = { str = "34.
+			[35] = { str = "35.
 
 
 
+																			
 
 
   #ACCEPTA Good Friend#  at 60,41 Accept  #ACCEPTThe Balance of Nature pt.2# and  #ACCEPTEtched Sigil#  at 58,44.  .", x = 59, y = 42, zone = "Teldrassil" },
