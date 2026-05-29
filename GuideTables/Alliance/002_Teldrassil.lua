@@ -24,7 +24,7 @@ Table_002_Teldrassil = {
 		title = "1-6 Teldrassil",
 		--n = "1-6 Teldrassil",
 		--pID = 1, nID = 12,
-		--itemCount = 20,
+		--itemCount = 52,
 		items = {
 			[1] = { str = "1. 1-6 Teldrassil" },
 			[2] = { str = "2. Берите задание  #ACCEPTThe Balance of Nature pt.1#  и выполняйте его, если вы не получили 2 уровень гриндите мобов." },
@@ -60,31 +60,24 @@ Table_002_Teldrassil = {
 			[32] = { str = "32. ......" },
 			[33] = { str = "33. ......" },
 			[34] = { str = "34. ......" },
-			[35] = { str = "35. ......" },
-
-
-
-																			
-
-
-  #ACCEPTA Good Friend#  at 60,41 Accept  #ACCEPTThe Balance of Nature pt.2# and  #ACCEPTEtched Sigil#  at 58,44.  .", x = 59, y = 42, zone = "Teldrassil" },
-			[4] = { str = "4. Turn in  #TURNINThe Woodland Protector pt.1#  at 57,45 and accept  #ACCEPTThe Woodland Protector pt.2#  Mobs are at 56,46. Turn it in at 57,45.", x = 56, y = 46, zone = "Teldrassil" },
-			[5] = { str = "5. Accept  #ACCEPTWebwood Venom#  at 57,41.", x = 57, y = 41, zone = "Teldrassil" },
-			[6] = { str = "6. #HUNTERHunter:# Run up the ramp to the top of the tree, turn in  #TURNINEtched Sigil#  at 58,40 (hunter trainer) and get beast tracking.", x = 58, y = 40, zone = "Teldrassil" },
-			[7] = { str = "7. Jump down and go do the following #DOQUESTThe Balance of Nature pt.2#  mobs are all around 60,35", x = 60, y = 35, zone = "Teldrassil" },
-			[8] = { str = "8. #DOQUESTWebwood Venom#  at 57,32 in and outside the cave.", x = 57, y = 32, zone = "Teldrassil" },
-			[9] = { str = "9. Turn in  #TURNINA Good Friend#  at 54,32 in a cove just west of the cave. Accept  #ACCEPTA Friend in Need#.", x = 54, y = 32, zone = "Teldrassil" },
-			[10] = { str = "10. Turn in  #TURNINWebwood Venom#  at 57,41. Accept  #ACCEPTWebwood Egg#.", x = 57, y = 41, zone = "Teldrassil" },
-			[11] = { str = "11. Turn in  #TURNINThe Balance of Nature pt.2#  at 58,44", x = 58, y = 44, zone = "Teldrassil" },
-			[12] = { str = "12. Turn in  #TURNINA Friend in Need#  at 60,41, accept  #ACCEPTIverron's Antidote pt.1#", x = 60, y = 41, zone = "Teldrassil" },
-			[13] = { str = "13. #DOQUESTIverron's Antidote pt.1#  (lilies and mushrooms) around 57,37.", x = 57, y = 37, zone = "Teldrassil" },
-			[14] = { str = "14. #DOQUESTIverron's Antidote pt.1#  (ichor) in the cave 57,32 along with  #DOQUESTWebwood Egg#  at 56,26", x = 57, y = 32, zone = "Teldrassil" },
-			[15] = { str = "15. Turn in  #TURNINWebwood Egg#  at 57,41 Accept  #ACCEPTTenaron's Summons#  then run up the ramp to the top of the tree and hand it in at 59,39. Accept  #ACCEPTCrown of the Earth pt.1# ", x = 57, y = 41, zone = "Teldrassil" },
-			[16] = { str = "16. Turn in  #TURNINIverron's Antidote pt.1#  accept  #ACCEPTIverron's Antidote pt.2#." },
-			[17] = { str = "17. Do  #DOQUESTCrown of the Earth pt.1#  at 59,32", x = 59, y = 32, zone = "Teldrassil" },
-			[18] = { str = "18. Turn in  #TURNINIverron's Antidote pt.2#  at 54,32", x = 54, y = 32, zone = "Teldrassil" },
-			[19] = { str = "19. Turn in  #TURNINCrown of the Earth pt.1#  at 59,39 Accept  #ACCEPTCrown of the Earth pt.2# ", x = 59, y = 39, zone = "Teldrassil" },
-			[20] = { str = "20. If you’re not level 6 yet, you should be close. Level and get skills. Head towards Dolanaar" },
+			[35] = { str = "35. ......#ACCEPTA Good Friend#  at 60,41 Accept  #ACCEPTThe Balance of Nature pt.2# and  #ACCEPTEtched Sigil#  at 58,44.  .", x = 59, y = 42, zone = "Teldrassil" },
+			[36] = { str = "4. Turn in  #TURNINThe Woodland Protector pt.1#  at 57,45 and accept  #ACCEPTThe Woodland Protector pt.2#  Mobs are at 56,46. Turn it in at 57,45.", x = 56, y = 46, zone = "Teldrassil" },
+			[37] = { str = "5. Accept  #ACCEPTWebwood Venom#  at 57,41.", x = 57, y = 41, zone = "Teldrassil" },
+			[38] = { str = "6. #HUNTERHunter:# Run up the ramp to the top of the tree, turn in  #TURNINEtched Sigil#  at 58,40 (hunter trainer) and get beast tracking.", x = 58, y = 40, zone = "Teldrassil" },
+			[39] = { str = "7. Jump down and go do the following #DOQUESTThe Balance of Nature pt.2#  mobs are all around 60,35", x = 60, y = 35, zone = "Teldrassil" },
+			[40] = { str = "8. #DOQUESTWebwood Venom#  at 57,32 in and outside the cave.", x = 57, y = 32, zone = "Teldrassil" },
+			[41] = { str = "9. Turn in  #TURNINA Good Friend#  at 54,32 in a cove just west of the cave. Accept  #ACCEPTA Friend in Need#.", x = 54, y = 32, zone = "Teldrassil" },
+			[42] = { str = "10. Turn in  #TURNINWebwood Venom#  at 57,41. Accept  #ACCEPTWebwood Egg#.", x = 57, y = 41, zone = "Teldrassil" },
+			[43] = { str = "11. Turn in  #TURNINThe Balance of Nature pt.2#  at 58,44", x = 58, y = 44, zone = "Teldrassil" },
+			[44] = { str = "12. Turn in  #TURNINA Friend in Need#  at 60,41, accept  #ACCEPTIverron's Antidote pt.1#", x = 60, y = 41, zone = "Teldrassil" },
+			[45] = { str = "13. #DOQUESTIverron's Antidote pt.1#  (lilies and mushrooms) around 57,37.", x = 57, y = 37, zone = "Teldrassil" },
+			[46] = { str = "14. #DOQUESTIverron's Antidote pt.1#  (ichor) in the cave 57,32 along with  #DOQUESTWebwood Egg#  at 56,26", x = 57, y = 32, zone = "Teldrassil" },
+			[47] = { str = "15. Turn in  #TURNINWebwood Egg#  at 57,41 Accept  #ACCEPTTenaron's Summons#  then run up the ramp to the top of the tree and hand it in at 59,39. Accept  #ACCEPTCrown of the Earth pt.1# ", x = 57, y = 41, zone = "Teldrassil" },
+			[48] = { str = "16. Turn in  #TURNINIverron's Antidote pt.1#  accept  #ACCEPTIverron's Antidote pt.2#." },
+			[49] = { str = "17. Do  #DOQUESTCrown of the Earth pt.1#  at 59,32", x = 59, y = 32, zone = "Teldrassil" },
+			[50] = { str = "18. Turn in  #TURNINIverron's Antidote pt.2#  at 54,32", x = 54, y = 32, zone = "Teldrassil" },
+			[51] = { str = "19. Turn in  #TURNINCrown of the Earth pt.1#  at 59,39 Accept  #ACCEPTCrown of the Earth pt.2# ", x = 59, y = 39, zone = "Teldrassil" },
+			[52] = { str = "20. If you’re not level 6 yet, you should be close. Level and get skills. Head towards Dolanaar" },
 		}
 	},
 
