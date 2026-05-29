@@ -27,7 +27,36 @@ Table_002_ElwynnForest = {
 		--itemCount = 69,
 		items = {
 			[1] = { str = "1. 1-10 Elwynn Forest" },
-			[2] = { str = "2. Directly in front of where you start accept #ACCEPTA Threat Within# then go in the building and turn it in, accept #ACCEPTKobold Camp Cleanup#" },
+			[2] = { str = "2. Выбросьте свой камень возвращения, и возьмите задание #ACCEPTA Threat Within# перед собой. 
+			[3] = { str = "3. Сдайте задание #ACCEPTA Threat Within# в точке 48,41, и возьмите следующее задание #ACCEPTKobold Camp Cleanup# 
+			[4] = { str = "4. Возьмите задание Eagan Peltskinner в точке 48,42 
+			[5] = { str = "5. Убивайте волков пока не наберете 50 медных монет продовая мусор с них. Купите на них еды или воды. 
+			[6] = { str = "6. Начинайте гриндить мобов до 2 уровня.
+			[7] = { str = "7. Сдайте задание Eagan Peltskinner в точке 48,40 и возьмите новое задание Wolves Across the Border 
+			[8] = { str = "8. Убивайте волков и добывайте мясо для задания Wolves Across the Border 	
+			[9] = { str = "9. Убивайте кобольтов в точке 47,35 для задания Kobold Camp Cleanup
+			[10] = { str = "10. Сдайте задание Wolves Across the Border в точке 48,40 
+			[11] = { str = "11. Продайте мусор и купите еды или воды по необходимости 
+			[12] = { str = "12. Сдайте задание Kobold Camp Cleanup
+			[13] = { str = "13. 	
+			[14] = { str = "14. 	
+			[15] = { str = "15. 	
+			[16] = { str = "16. 	
+			[17] = { str = "17. 	
+			[18] = { str = "18. 	
+			[19] = { str = "19. 	
+			[20] = { str = "20. 	
+			[21] = { str = "21. 	
+			[22] = { str = "22. 	
+			[23] = { str = "23. 
+			[24] = { str = "24. 
+			[25] = { str = "25. 
+			[26] = { str = "26. 
+			[27] = { str = "27. 
+
+
+																									
+				Directly in front of where you start accept #ACCEPTA Threat Within# then go in the building and turn it in, accept #ACCEPTKobold Camp Cleanup#" },
 			[3] = { str = "3. Run back out, and turn in #TURNINWelcome!# at the wagons at 47,41", x = 47, y = 41, zone = "Elwynn Forest" },
 			[4] = { str = "4. Go to the nook at the NW corner of the building at 48,40 and accept #ACCEPTWolves Across the Border#", x = 48, y = 40, zone = "Elwynn Forest" },
 			[5] = { str = "5. Kill the wolves in front of you for #DOQUESTWolves Across the Border# while working your way to the Kobold Vermin at 47,35 for #DOQUESTKobold Camp Cleanup#", x = 47, y = 35, zone = "Elwynn Forest" },
