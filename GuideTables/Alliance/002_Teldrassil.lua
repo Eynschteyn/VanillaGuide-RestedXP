@@ -57,7 +57,7 @@ Table_002_Teldrassil = {
 			[29] = { str = "29. Сдайте задание #TURNINThe Balance of Nature#" },
 			[30] = { str = "30. Идите снова на самый верх дерева и сдайте задание #TURNINCrown of the Earth# и возьмите следующую часть задания #ACCEPTCrown of the Earth#" },
 			[31] = { str = "31. Сейчас вы должны быть 6 уровня. Зайдите к классовому тренеру и выучите новые навыки" },
-			[32] = { str = "32. Далее направляйтесь к выходу из этой локации в точке 61,47" },
+			[32] = { str = "32. Почените броню и направляйтесь к выходу из этой локации в точке 61,47" },
 			--[33] = { str = "33. Готово полностью переписан с Рестед ХР" },
 		}
 	},
@@ -71,8 +71,13 @@ Table_002_Teldrassil = {
 		--itemCount = 57,
 		items = {
 			[1] = { str = "1. 6-12 Teldrassil" },
-			[2] = { str = "2. Accept  #ACCEPTDolanaar Delivery#  at 61,47", x = 61, y = 47, zone = "Teldrassil" },
-			[3] = { str = "3. Accept  #ACCEPTZenn's Bidding#  at 60,56", x = 60, y = 56, zone = "Teldrassil" },
+			[2] = { str = "2. Зозьмите задание #ACCEPTDolanaar Delivery# в точке 61,47", x = 61, y = 47, zone = "Teldrassil" },
+			[3] = { str = "3. Идите по дороге и возьмите задание  #ACCEPTZenn's Bidding#  в точке 60,56", x = 60, y = 56, zone = "Teldrassil" },
+			[4] = { str = "4. 
+			[4] = { str = "4. 
+			[4] = { str = "4. 
+			[4] = { str = "4. 
+			[4] = { str = "4. 
 			[4] = { str = "4. Make Dolanaar your home." },
 			[5] = { str = "5. Turn in  #TURNINDolanaar Delivery#  at 55,59 in Dolanaar", x = 55, y = 59, zone = "Teldrassil" },
 			[6] = { str = "6. Turn in  #TURNINCrown of the Earth pt.2#  at 56,61 accept  #ACCEPTCrown of the Earth pt.3#", x = 56, y = 61, zone = "Teldrassil" },
